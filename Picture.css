@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+ 
+ 
+body{
+ background:black
+}
+h1{
+    background-color:#1CE1CE;
+font-family: 'Lobster', cursive;
+    color: black;
+    text-align: center;
+  padding-left:50px;
+}
+
+h2{
+  background-color:cyan;
+font-family: 'Lobster', cursive;
+    color: black;
+    text-align: center;
+  padding-left:20px;
+}
+img {
+    float: left;
+    width:200px;
+    height:200px;
+    object-fit: cover;
+ padding-left:20px;
+ margin-top:20px;
+}
+
